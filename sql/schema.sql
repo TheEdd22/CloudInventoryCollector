@@ -1,0 +1,1 @@
+-- Script de criação de tabelas para armazenar dados de instâncias
