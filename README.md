@@ -10,7 +10,7 @@ Projeto de coleta automatizada de dados de instâncias em múltiplos provedores 
 - Azure, AWS, GCP, OCI
 
 ## Estrutura do projeto
-- `azure/`: Scripts PowerShell para provisionamento e limpeza no Azure
+- `azure/`: Scripts PowerShell para provisionamento,limpeza no Azure e recriação da Infraestrutura
 - `aws/`, `gcp/`, `oci/`: Scripts para os demais provedores
 - `orchestrator/`: Código Python para coleta e integração com banco
 - `sql/`: Scripts de criação de schema e tabelas
