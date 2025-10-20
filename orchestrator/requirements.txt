@@ -1,1 +1,10 @@
 # SDKs: boto3, google-cloud, oci, azure-mgmt
+azure-identity
+azure-mgmt-compute
+azure-mgmt-network
+boto3
+google-cloud-compute
+oci
+psycopg2-binary
+pyodbc
+sqlalchemy
